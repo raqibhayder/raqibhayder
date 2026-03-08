@@ -6,10 +6,6 @@ Currently at **FluidAI**, where I build agentic systems for healthcare revenue c
 
 I care about how people interact with AI — not the models, but the experience around them. How an agent earns trust, how it stays out of the way, and how it actually helps.
 
-### What I work with
-
-`Python` `TypeScript` `FastAPI` `Next.js` `React` `FHIR` `LLMs` `Agentic AI`
-
 ### Links
 
 - [raqibul.com](https://raqibul.com)
