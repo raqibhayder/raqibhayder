@@ -1,16 +1,17 @@
-### Hi there 👋
+# Raqib Hayder
 
-<!--
-**raqibhayder/raqibhayder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer who's worked across the full spectrum — from hardware at Apple, Tesla, and GM to leading ML and data teams, to now building AI agents and generative interfaces in healthcare.
 
-Here are some ideas to get you started:
+Currently at **FluidAI**, where I build agentic systems for healthcare revenue cycle management, and **MatMul**, where I work on AI tooling. Previously led product and ML at Neuron, working with surgeons on post-operative care.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I care about how people interact with AI — not the models, but the experience around them. How an agent earns trust, how it stays out of the way, and how it actually helps.
+
+### What I work with
+
+`Python` `TypeScript` `FastAPI` `Next.js` `React` `FHIR` `LLMs` `Agentic AI`
+
+### Links
+
+- [raqibul.com](https://raqibul.com)
+- [twitter/x](https://x.com/raqibhayder)
+- [linkedin](https://linkedin.com/in/raqibhayder)
